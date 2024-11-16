@@ -94,3 +94,10 @@ section{
         display: none;
     }
 }
+
+span{
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:large;
+    font-weight: bold;
+}
